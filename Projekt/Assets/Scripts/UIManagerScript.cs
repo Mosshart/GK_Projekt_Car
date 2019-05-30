@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+public class UIManagerScript : MonoBehaviour {
 
-public class PointsCounter : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
